@@ -1,0 +1,55 @@
+{
+  "jogadores": [
+    {
+      "nome": "Neymar Jr.",
+      "idade": 29,
+      "clube": "Paris Saint-Germain",
+      "posicao": "Atacante",
+      "titulos": [
+        "Copa Libertadores",
+        "Campeonato Brasileiro",
+        "Liga dos Campeões da UEFA"
+      ]
+    },
+    {
+      "nome": "Alisson Becker",
+      "idade": 28,
+      "clube": "Liverpool",
+      "posicao": "Goleiro",
+      "titulos": [
+        "Copa do Mundo",
+        "Premier League",
+        "Liga dos Campeões da UEFA"
+      ]
+    },
+    {
+      "nome": "Casemiro",
+      "idade": 29,
+      "clube": "Real Madrid",
+      "posicao": "Meio-Campista",
+      "titulos": [
+        "Copa América",
+        "La Liga",
+        "Liga dos Campeões da UEFA"
+      ]
+    },
+    {
+      "nome": "Dani Alves",
+      "idade": 39,
+      "clube": "São Paulo FC",
+      "posicao": "Lateral-Direito",
+      "titulos": [
+        "Copa do Mundo",
+        "Copa América",
+        "Liga dos Campeões da UEFA"
+      ]
+    },
+    {
+      "nome": "Vinicius Jr.",
+      "idade": 21,
+      "clube": "Real Madrid",
+      "posicao": "Atacante",
+      "titulos": []
+    }
+  ]
+}
